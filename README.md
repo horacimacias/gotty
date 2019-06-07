@@ -155,8 +155,7 @@ You can build a binary using the following commands. Windows is not supported no
 
 ```sh
 # Install tools
-go get github.com/jteeuwen/go-bindata/...
-go get github.com/tools/godep
+make tools
 
 # Build
 make
